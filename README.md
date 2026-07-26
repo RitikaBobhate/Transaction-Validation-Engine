@@ -4,7 +4,7 @@ Event-driven backend validation system | Rule Engine | Observer Pattern | Enterp
 
 > An event-driven transaction validation system that enforces business rules before financial transactions are committed, ensuring inventory consistency and data integrity.
 
-![Architecture](https://github.com/RitikaBobhate/Transaction-Validation-Engine/tree/main/Architecture_Diagram)
+![Transaction Validation Engine Architecture](Architecture_Diagram/Transaction%20Validation%20Engine_Architecture%20Poster.png)
 
 
 
@@ -32,7 +32,7 @@ Although this implementation is built using **Microsoft Dynamics 365 Business Ce
 
 # 🏗 High-Level Architecture
 
-![Architecture Diagram](https://github.com/RitikaBobhate/Transaction-Validation-Engine/tree/main/Architecture_Diagram)
+![Transaction Validation Engine Architecture](Architecture_Diagram/Transaction%20Validation%20Engine_Architecture%20Poster.png)
 
 The transaction lifecycle consists of six logical layers:
 
