@@ -1,0 +1,14 @@
+# Business Central
+.alpackages/
+.snapshots/
+*.app
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
