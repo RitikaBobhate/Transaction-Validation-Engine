@@ -1,4 +1,8 @@
-
+![Platform](https://img.shields.io/badge/Platform-Business%20Central-0078D4)
+![Language](https://img.shields.io/badge/Language-AL-purple)
+![Architecture](https://img.shields.io/badge/Architecture-Event--Driven-blue)
+![Pattern](https://img.shields.io/badge/Pattern-Observer-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 # 🚀 Enterprise Transaction Validation Engine
 
 > An event-driven transaction validation system that enforces business rules before financial transactions are committed, ensuring inventory consistency and data integrity.
