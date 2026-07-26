@@ -1,6 +1,5 @@
-# Transaction-Validation-Engine
-Event-driven backend validation system | Rule Engine | Observer Pattern | Enterprise Software | AL | Microsoft Dynamics 365 Business Central
-# 🚀 Transaction Validation Engine
+
+# 🚀 Enterprise Transaction Validation Engine
 
 > An event-driven transaction validation system that enforces business rules before financial transactions are committed, ensuring inventory consistency and data integrity.
 
