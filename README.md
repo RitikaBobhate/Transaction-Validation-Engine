@@ -166,18 +166,30 @@ This project demonstrates several enterprise software engineering principles.
 
 ```
 Transaction-Validation-Engine
-
-├── docs/
+├── README.md
+├── LICENSE
+├── .gitignore
 │
-├── diagrams/
+├── codes
+│   ├── api
+│   │   └── CustomerAPI.al
+│   │
+│   ├── codeunits
+│   │   ├── PartialShipmentValidation.Codeunit.al
+│   │   └── PartialShipmentValidationTest.Codeunit.al
+│   │
+│   ├── pageextensions
+│   │   ├── CustomerCardExt.PageExt.al
+│   │   └── SalesOrderSubformExt.PageExt.al
+│   │
+│   ├── pages
+│   │   └── SalesLineAvailabilityFactBox.Page.al
+│   │
+│   └── tableextensions
+│       └── CustomerAllowPartialShipment.TableExt.al
 │
-├── screenshots/
-│
-├── src/
-│     ValidationEngine.al
-│     TransactionValidationSubscriber.al
-│
-└── README.md
+├── diagrams
+│   └── architecture.png
 ```
 
 ---
