@@ -212,26 +212,6 @@ This approach improves:
 
 ---
 
-# 📸 Screenshots
-
-## Posting Attempt
-
-![Posting](./screenshots/posting.png)
-
----
-
-## Validation Failure
-
-![Validation](./screenshots/error.png)
-
----
-
-## Successful Posting
-
-![Success](./screenshots/success.png)
-
----
-
 # 📚 Lessons Learned
 
 During this implementation, several important enterprise software engineering concepts became evident:
